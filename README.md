@@ -1,16 +1,11 @@
-# assignment_four
+# EDGE IIUC Digital Skills Training Program | Mobile App Development
 
-A new Flutter project.
+This is Demo Dashboard Landing Page with Flutter. Below are some demo images of the app.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Landing Pages
 
-A few resources to get you started if this is your first Flutter project:
+<div style="text-align: center;">
+  <img src="https://i.ibb.co.com/prsFpj2/Screenshot-2024-10-09-222555.png" alt="Landing Page" width="400" height="645" style="margin-right: 10px;" />
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
